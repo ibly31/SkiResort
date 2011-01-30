@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Ski Store Expansion</string>
+			<key>Image</key>
+			<string>Expansion</string>
+			<key>Cost</key>
+			<integer>7000</integer>
+			<key>Description</key>
+			<string>Expands the ski store to allow for more stock and more money income.</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Expand Parking Lots</string>
+			<key>Image</key>
+			<string>ParkingLots</string>
+			<key>Cost</key>
+			<integer>15000</integer>
+			<key>Description</key>
+			<string>Add more space to the parking lots to allow for more customers.</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Clear A New Trail</string>
+			<key>Image</key>
+			<string>Trails</string>
+			<key>Cost</key>
+			<integer>1000</integer>
+			<key>Description</key>
+			<string>Clear a new trail on the mountain. Adds to resort&apos;s popularity.</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Host Olympics</string>
+			<key>Image</key>
+			<string>Olympics</string>
+			<key>Cost</key>
+			<integer>1000000</integer>
+			<key>Description</key>
+			<string>Host the Winter Olympic Games at the chosen resort. Adds to resort&apos;s popularity and resort&apos;s overall population.</string>
+		</dict>
+	</array>
+</array>
+</plist>

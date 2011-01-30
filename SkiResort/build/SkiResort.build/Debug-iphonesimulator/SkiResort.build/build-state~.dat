@@ -1,0 +1,841 @@
+TSkiResort
+v7
+r0
+t318044779.607879
+cCheck dependencies
+cProcessInfoPlistFile "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/Info.plist" SkiResort-Info.plist
+cCompileXIB "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainWindow.xib"
+cCompileXIB "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainMenuViewController.xib"
+cCompileXIB "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/StartGameViewController.xib"
+cCompileXIB "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/ContinueGameViewController.xib"
+cCompileXIB "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/OptionsViewController.xib"
+cCompileXIB "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainScreenViewController.xib"
+cCpResource build/Debug-iphonesimulator/SkiResort.app/HUDBottomBackground.png ../SkiResortImages/HUDBottomBackground.png
+cCpResource build/Debug-iphonesimulator/SkiResort.app/HUDTopBackground.png "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResortImages/HUDTopBackground.png"
+cCpResource build/Debug-iphonesimulator/SkiResort.app/PauseMenu.png ../SkiResortImages/PauseMenu.png
+cCpResource build/Debug-iphonesimulator/SkiResort.app/MapIcon.png ../SkiResortImages/MapIcon.png
+cCpResource build/Debug-iphonesimulator/SkiResort.app/Pause.png ../SkiResortImages/Pause.png
+cCpResource build/Debug-iphonesimulator/SkiResort.app/Map.png ../SkiResortImages/Map.png
+cCpResource build/Debug-iphonesimulator/SkiResort.app/UpdateLog.png ../SkiResortImages/UpdateLog.png
+cCpResource build/Debug-iphonesimulator/SkiResort.app/Store.png ../SkiResortImages/Store.png
+cProcessPCH /var/folders/XV/XVklkd+3Eyi9KQgq0ucWa++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SkiResort_Prefix-eimrtrnsselqeggzxyllddtoxdmv/SkiResort_Prefix.pch.gch SkiResort_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/main.o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/SkiResortAppDelegate.o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/Classes/SkiResortAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/MainMenuViewController.o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainMenuViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/StartGameViewController.o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/StartGameViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/ContinueGameViewController.o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/ContinueGameViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/OptionsViewController.o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/OptionsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/GameDataModel.o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/GameDataModel.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/MainScreenViewController.o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainScreenViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/HUDTopView.o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDTopView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/HUDMiddleView.o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDMiddleView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/HUDBottomView.o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDBottomView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/PauseMenuView.o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/PauseMenuView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/MapView.o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MapView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/SkiResort" normal i386
+cGenerateDSYMFile "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app.dSYM" "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/SkiResort"
+cTouch "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/../SkiResortImages/HUDBottomBackground.png
+c000000004D3B3AED000000000000E392
+t1295727341
+s58258
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/../SkiResortImages/HUDTopBackground.ong
+c000000004D447531000000000000EA37
+t1296332081
+s59959
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/../SkiResortImages/Map.png
+c000000004D3BA36F0000000000027E64
+t1295754095
+s163428
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/../SkiResortImages/MapIcon.png
+c000000004D3B9B23000000000000D0E7
+t1295751971
+s53479
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/../SkiResortImages/Pause.png
+c000000004D3B51E0000000000000CCB2
+t1295733216
+s52402
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/../SkiResortImages/PauseMenu.png
+c000000004D3E2DBE0000000000023B1D
+t1295920574
+s146205
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/../SkiResortImages/Store.png
+c000000004D3E49D4000000000000D018
+t1295927764
+s53272
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/../SkiResortImages/UpdateLog.png
+c000000004D4224D70000000000015B4C
+t1296180439
+s88908
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/Classes/SkiResortAppDelegate.h
+c000000004D44838400000000000002AC
+t1296335748
+s684
+i<UIKit/UIKit.h>
+i"GameDataModel.h"
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/Classes/SkiResortAppDelegate.m
+c000000004D444C640000000000001096
+t1296321636
+s4246
+i"SkiResortAppDelegate.h"
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/ContinueGameViewController.h
+c000000004D44835A00000000000001BA
+t1296335706
+s442
+i<UIKit/UIKit.h>
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/ContinueGameViewController.m
+c000000004D44845900000000000006FE
+t1296335961
+s1790
+i"ContinueGameViewController.h"
+i"SkiResortAppDelegate.h"
+i"GameDataModel.h"
+i"MainScreenViewController.h"
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/ContinueGameViewController.xib
+c000000004D44847500000000000073AD
+t1296335989
+s29613
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/GameDataModel.h
+c000000004D444BAE000000000000026F
+t1296321454
+s623
+i<Foundation/Foundation.h>
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/GameDataModel.m
+c000000004D444BB900000000000004CD
+t1296321465
+s1229
+i"GameDataModel.h"
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDBottomView.h
+c000000004D44854900000000000001AB
+t1296336201
+s427
+i<UIKit/UIKit.h>
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDBottomView.m
+c000000004D4484DE0000000000000378
+t1296336094
+s888
+i"HUDBottomView.h"
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDBottomVirew.h
+c000000004D44747500000000000000DA
+t1296331893
+s218
+i<UIKit/UIKit.h>
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDBottomVirew.m
+c000000004D447475000000000000025E
+t1296331893
+s606
+i"HUDBottomVirew.h"
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDMiddleView.h
+c000000004D448DF4000000000000022D
+t1296338420
+s557
+i<UIKit/UIKit.h>
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDMiddleView.m
+c000000004D448E0800000000000007A2
+t1296338440
+s1954
+i"HUDMiddleView.h"
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDTopView.h
+c000000004D44853E00000000000001A5
+t1296336190
+s421
+i<UIKit/UIKit.h>
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDTopView.m
+c000000004D4484E4000000000000036C
+t1296336100
+s876
+i"HUDTopView.h"
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainMenuViewController.h
+c000000004D438C4B000000000000019D
+t1296272459
+s413
+i<UIKit/UIKit.h>
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainMenuViewController.m
+c000000004D43A7D3000000000000063F
+t1296279507
+s1599
+i"MainMenuViewController.h"
+i"StartGameViewController.h"
+i"ContinueGameViewController.h"
+i"OptionsViewController.h"
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainMenuViewController.xib
+c000000004D438D490000000000006FC8
+t1296272713
+s28616
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainScreenViewController.h
+c000000004D44B93F0000000000000289
+t1296349503
+s649
+i<UIKit/UIKit.h>
+i"HUDTopView.h"
+i"HUDMiddleView.h"
+i"HUDBottomView.h"
+i"PauseMenuView.h"
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainScreenViewController.m
+c000000004D44BB150000000000000696
+t1296349973
+s1686
+i"MainScreenViewController.h"
+i"OptionsViewController.h"
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainScreenViewController.xib
+c000000004D44500A0000000000001883
+t1296322570
+s6275
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainWindow.xib
+c000000004D43530500000000000066AA
+t1296257797
+s26282
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MapView.h
+c000000004D44BF83000000000000020D
+t1296351107
+s525
+i<UIKit/UIKit.h>
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MapView.m
+c000000004D44BFE500000000000002AB
+t1296351205
+s683
+i"MapView.h"
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/OptionsViewController.h
+c000000004D43709F0000000000000104
+t1296265375
+s260
+i<UIKit/UIKit.h>
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/OptionsViewController.m
+c000000004D444FD000000000000002B2
+t1296322512
+s690
+i"OptionsViewController.h"
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/OptionsViewController.xib
+c000000004D444FA900000000000069AB
+t1296322473
+s27051
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/PauseMenuView.h
+c000000004D448C240000000000000218
+t1296337956
+s536
+i<UIKit/UIKit.h>
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/PauseMenuView.m
+c000000004D44BFA8000000000000088F
+t1296351144
+s2191
+i"PauseMenuView.h"
+i"MainMenuViewController.h"
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/SkiResort_Prefix.pch
+c000000004D43475D00000000000000BB
+t1296254813
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/StartGameViewController.h
+c000000004D444DBF000000000000029B
+t1296321983
+s667
+i<UIKit/UIKit.h>
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/StartGameViewController.m
+c000000004D4479CE000000000000073D
+t1296333262
+s1853
+i"StartGameViewController.h"
+i"SkiResortAppDelegate.h"
+i"MainScreenViewController.h"
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/StartGameViewController.xib
+c000000004D4476CA0000000000009349
+t1296332490
+s37705
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app
+t1296351979
+s646
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app.dSYM
+t1296351979
+s102
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/ContinueGameViewController.nib
+t1296351977
+s2513
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/HUDBottomBackground.png
+t1296351977
+s58258
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/HUDTopBackground.ong
+t1296332951
+s59959
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/HUDTopBackground.png
+t1296351977
+s67360
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/Info.plist
+t1296351976
+s594
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/MainMenuViewController.nib
+t1296351976
+s2455
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/MainScreenViewController.nib
+t1296351977
+s764
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/MainWindow.nib
+t1296351976
+s1532
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/Map.png
+t1296351977
+s163428
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/MapIcon.png
+t1296351977
+s53479
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/OptionsViewController.nib
+t1296351977
+s2259
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/Pause.png
+t1296351977
+s52402
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/PauseMenu.png
+t1296351977
+s146205
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/PkgInfo
+t1296351976
+s8
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/SkiResort
+t1296351979
+s65708
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/StartGameViewController.nib
+t1296351977
+s3241
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/Store.png
+t1296351977
+s53272
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/UpdateLog.png
+t1296351977
+s88908
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/ContinueGameViewController.o
+t1296351979
+s54056
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/GameDataModel.o
+t1296351979
+s14264
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/HUDBottomView.o
+t1296351979
+s42404
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/HUDBottomVirew.o
+t2
+s0
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/HUDMiddleView.o
+t1296351979
+s51164
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/HUDTopView.o
+t1296351979
+s42288
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/MainMenuViewController.o
+t1296351979
+s45968
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/MainScreenViewController.o
+t1296351979
+s48408
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/MapView.o
+t1296351979
+s40072
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/OptionsViewController.o
+t1296351979
+s38296
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/PauseMenuView.o
+t1296351979
+s50964
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/SkiResort.LinkFileList
+c000000004D44C2E800000000000008BD
+t1296351976
+s2237
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/SkiResortAppDelegate.o
+t1296351978
+s61648
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/StartGameViewController.o
+t1296351979
+s59180
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/main.o
+t1296351978
+s6372
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/main.m
+c000000004D43475D000000000000016D
+t1296254813
+s365
+i<UIKit/UIKit.h>
+
+N/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResortImages/HUDTopBackground.png
+c000000004D4479B60000000000010720
+t1296333238
+s67360
+
+N/var/folders/XV/XVklkd+3Eyi9KQgq0ucWa++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SkiResort_Prefix-eimrtrnsselqeggzxyllddtoxdmv/SkiResort_Prefix.pch.gch
+t1296351978
+s15453392
+
+NSkiResort-Info.plist
+c000000004D4448E60000000000000371
+t1296320742
+s881
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318044776#318044776#0(0"0(0#1#0"8619837344#0"0#
+
+CCompileC build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/ContinueGameViewController.o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/ContinueGameViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s318044779.040594
+e318044779.130062
+r1
+xCompileC
+xbuild/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/ContinueGameViewController.o
+x/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/ContinueGameViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/ContinueGameViewController.m318044779#318044779#0(0"0(0#0#101"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/ContinueGameViewController.m8616403840#2394"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-generated-files.hmap" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-own-target-headers.hmap" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-all-target-headers.hmap" -iquote "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-project-headers.hmap" "-F/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/include" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/DerivedSources/i386" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/DerivedSources" -include /var/folders/XV/XVklkd+3Eyi9KQgq0ucWa++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SkiResort_Prefix-eimrtrnsselqeggzxyllddtoxdmv/SkiResort_Prefix.pch -c "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/ContinueGameViewController.m" -o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/ContinueGameViewController.o"0#
+
+CCompileC build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/GameDataModel.o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/GameDataModel.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s318044779.130174
+e318044779.220999
+r1
+xCompileC
+xbuild/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/GameDataModel.o
+x/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/GameDataModel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/GameDataModel.m318044779#318044779#0(0"0(0#0#88"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/GameDataModel.m8615331648#2368"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-generated-files.hmap" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-own-target-headers.hmap" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-all-target-headers.hmap" -iquote "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-project-headers.hmap" "-F/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/include" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/DerivedSources/i386" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/DerivedSources" -include /var/folders/XV/XVklkd+3Eyi9KQgq0ucWa++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SkiResort_Prefix-eimrtrnsselqeggzxyllddtoxdmv/SkiResort_Prefix.pch -c "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/GameDataModel.m" -o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/GameDataModel.o"0#
+
+CCompileC build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/HUDBottomView.o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDBottomView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s318044779.311520
+e318044779.421134
+r1
+xCompileC
+xbuild/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/HUDBottomView.o
+x/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDBottomView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDBottomView.m318044779#318044779#0(0"0(0#0#88"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDBottomView.m8616420512#2368"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-generated-files.hmap" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-own-target-headers.hmap" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-all-target-headers.hmap" -iquote "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-project-headers.hmap" "-F/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/include" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/DerivedSources/i386" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/DerivedSources" -include /var/folders/XV/XVklkd+3Eyi9KQgq0ucWa++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SkiResort_Prefix-eimrtrnsselqeggzxyllddtoxdmv/SkiResort_Prefix.pch -c "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDBottomView.m" -o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/HUDBottomView.o"0#
+
+CCompileC build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/HUDBottomVirew.o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDBottomVirew.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/HUDMiddleView.o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDMiddleView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s318044779.299759
+e318044779.393167
+r1
+xCompileC
+xbuild/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/HUDMiddleView.o
+x/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDMiddleView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDMiddleView.m: In function '-[HUDMiddleView touchesBegan:withEvent:]':
+o/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDMiddleView.m:51: warning: no '-pmv' method found
+o/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDMiddleView.m:51: warning: (Messages without a matching method signature
+o/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDMiddleView.m:51: warning: will be assumed to return 'id' and accept
+o/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDMiddleView.m:51: warning: '...' as arguments.)
+lSLF07#2@96"Compile /Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDMiddleView.m318044779#318044779#0(686"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDMiddleView.m: In function '-[HUDMiddleView touchesBegan:withEvent:]':/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDMiddleView.m:51: warning: no '-pmv' method found/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDMiddleView.m:51: warning: (Messages without a matching method signature/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDMiddleView.m:51: warning: will be assumed to return 'id' and accept/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDMiddleView.m:51: warning: '...' as arguments.)2(22@22"No '-pmv' method found318044779#146#125#0(6@88"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDMiddleView.m318031240#51#0#51#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)318044779#271#148#0(6@88"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDMiddleView.m318031240#51#0#51#0#0"0(0#0#88"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDMiddleView.m8616848384#2368"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-generated-files.hmap" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-own-target-headers.hmap" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-all-target-headers.hmap" -iquote "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-project-headers.hmap" "-F/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/include" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/DerivedSources/i386" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/DerivedSources" -include /var/folders/XV/XVklkd+3Eyi9KQgq0ucWa++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SkiResort_Prefix-eimrtrnsselqeggzxyllddtoxdmv/SkiResort_Prefix.pch -c "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDMiddleView.m" -o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/HUDMiddleView.o"0#
+
+CCompileC build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/HUDTopView.o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDTopView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s318044779.221172
+e318044779.299658
+r1
+xCompileC
+xbuild/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/HUDTopView.o
+x/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDTopView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDTopView.m318044779#318044779#0(0"0(0#0#85"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDTopView.m8617773760#2362"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-generated-files.hmap" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-own-target-headers.hmap" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-all-target-headers.hmap" -iquote "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-project-headers.hmap" "-F/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/include" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/DerivedSources/i386" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/DerivedSources" -include /var/folders/XV/XVklkd+3Eyi9KQgq0ucWa++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SkiResort_Prefix-eimrtrnsselqeggzxyllddtoxdmv/SkiResort_Prefix.pch -c "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/HUDTopView.m" -o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/HUDTopView.o"0#
+
+CCompileC build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/MainMenuViewController.o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainMenuViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s318044778.941210
+e318044779.040489
+r1
+xCompileC
+xbuild/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/MainMenuViewController.o
+x/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainMenuViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainMenuViewController.m318044778#318044779#0(0"0(0#0#97"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainMenuViewController.m8617774368#2386"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-generated-files.hmap" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-own-target-headers.hmap" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-all-target-headers.hmap" -iquote "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-project-headers.hmap" "-F/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/include" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/DerivedSources/i386" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/DerivedSources" -include /var/folders/XV/XVklkd+3Eyi9KQgq0ucWa++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SkiResort_Prefix-eimrtrnsselqeggzxyllddtoxdmv/SkiResort_Prefix.pch -c "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainMenuViewController.m" -o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/MainMenuViewController.o"0#
+
+CCompileC build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/MainScreenViewController.o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainScreenViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s318044779.193935
+e318044779.311428
+r1
+xCompileC
+xbuild/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/MainScreenViewController.o
+x/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainScreenViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainScreenViewController.m318044779#318044779#0(0"0(0#0#99"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainScreenViewController.m8607628768#2390"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-generated-files.hmap" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-own-target-headers.hmap" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-all-target-headers.hmap" -iquote "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-project-headers.hmap" "-F/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/include" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/DerivedSources/i386" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/DerivedSources" -include /var/folders/XV/XVklkd+3Eyi9KQgq0ucWa++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SkiResort_Prefix-eimrtrnsselqeggzxyllddtoxdmv/SkiResort_Prefix.pch -c "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainScreenViewController.m" -o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/MainScreenViewController.o"0#
+
+CCompileC build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/MapView.o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MapView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s318044779.421236
+e318044779.539324
+r1
+xCompileC
+xbuild/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/MapView.o
+x/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MapView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MapView.m318044779#318044779#0(0"0(0#0#82"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MapView.m8608935680#2356"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-generated-files.hmap" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-own-target-headers.hmap" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-all-target-headers.hmap" -iquote "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-project-headers.hmap" "-F/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/include" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/DerivedSources/i386" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/DerivedSources" -include /var/folders/XV/XVklkd+3Eyi9KQgq0ucWa++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SkiResort_Prefix-eimrtrnsselqeggzxyllddtoxdmv/SkiResort_Prefix.pch -c "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MapView.m" -o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/MapView.o"0#
+
+CCompileC build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/OptionsViewController.o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/OptionsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s318044779.093854
+e318044779.193834
+r1
+xCompileC
+xbuild/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/OptionsViewController.o
+x/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/OptionsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/OptionsViewController.m318044779#318044779#0(0"0(0#0#96"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/OptionsViewController.m8615679776#2384"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-generated-files.hmap" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-own-target-headers.hmap" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-all-target-headers.hmap" -iquote "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-project-headers.hmap" "-F/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/include" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/DerivedSources/i386" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/DerivedSources" -include /var/folders/XV/XVklkd+3Eyi9KQgq0ucWa++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SkiResort_Prefix-eimrtrnsselqeggzxyllddtoxdmv/SkiResort_Prefix.pch -c "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/OptionsViewController.m" -o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/OptionsViewController.o"0#
+
+CCompileC build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/PauseMenuView.o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/PauseMenuView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s318044779.393333
+e318044779.522331
+r1
+xCompileC
+xbuild/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/PauseMenuView.o
+x/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/PauseMenuView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/PauseMenuView.m: In function '-[PauseMenuView touchesBegan:withEvent:]':
+o/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/PauseMenuView.m:65: warning: no '-showOptions' method found
+o/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/PauseMenuView.m:65: warning: (Messages without a matching method signature
+o/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/PauseMenuView.m:65: warning: will be assumed to return 'id' and accept
+o/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/PauseMenuView.m:65: warning: '...' as arguments.)
+lSLF07#2@96"Compile /Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/PauseMenuView.m318044779#318044779#0(694"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/PauseMenuView.m: In function '-[PauseMenuView touchesBegan:withEvent:]':/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/PauseMenuView.m:65: warning: no '-showOptions' method found/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/PauseMenuView.m:65: warning: (Messages without a matching method signature/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/PauseMenuView.m:65: warning: will be assumed to return 'id' and accept/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/PauseMenuView.m:65: warning: '...' as arguments.)2(22@30"No '-showOptions' method found318044779#146#133#0(6@88"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/PauseMenuView.m318043944#65#0#65#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)318044779#279#148#0(6@88"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/PauseMenuView.m318043944#65#0#65#0#0"0(0#0#88"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/PauseMenuView.m8610363200#2368"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-generated-files.hmap" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-own-target-headers.hmap" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-all-target-headers.hmap" -iquote "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-project-headers.hmap" "-F/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/include" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/DerivedSources/i386" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/DerivedSources" -include /var/folders/XV/XVklkd+3Eyi9KQgq0ucWa++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SkiResort_Prefix-eimrtrnsselqeggzxyllddtoxdmv/SkiResort_Prefix.pch -c "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/PauseMenuView.m" -o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/PauseMenuView.o"0#
+
+CCompileC build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/SkiResortAppDelegate.o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/Classes/SkiResortAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s318044778.880884
+e318044778.985185
+r1
+xCompileC
+xbuild/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/SkiResortAppDelegate.o
+x/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/Classes/SkiResortAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/Classes/SkiResortAppDelegate.m318044778#318044778#0(0"0(0#0#103"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/Classes/SkiResortAppDelegate.m8620000192#2390"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-generated-files.hmap" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-own-target-headers.hmap" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-all-target-headers.hmap" -iquote "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-project-headers.hmap" "-F/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/include" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/DerivedSources/i386" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/DerivedSources" -include /var/folders/XV/XVklkd+3Eyi9KQgq0ucWa++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SkiResort_Prefix-eimrtrnsselqeggzxyllddtoxdmv/SkiResort_Prefix.pch -c "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/Classes/SkiResortAppDelegate.m" -o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/SkiResortAppDelegate.o"0#
+
+CCompileC build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/StartGameViewController.o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/StartGameViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s318044778.985293
+e318044779.093746
+r1
+xCompileC
+xbuild/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/StartGameViewController.o
+x/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/StartGameViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/StartGameViewController.m318044778#318044779#0(0"0(0#0#98"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/StartGameViewController.m8616932384#2388"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-generated-files.hmap" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-own-target-headers.hmap" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-all-target-headers.hmap" -iquote "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-project-headers.hmap" "-F/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/include" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/DerivedSources/i386" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/DerivedSources" -include /var/folders/XV/XVklkd+3Eyi9KQgq0ucWa++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SkiResort_Prefix-eimrtrnsselqeggzxyllddtoxdmv/SkiResort_Prefix.pch -c "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/StartGameViewController.m" -o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/StartGameViewController.o"0#
+
+CCompileC build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/main.o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s318044778.879290
+e318044778.941102
+r1
+xCompileC
+xbuild/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/main.o
+x/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/main.m318044778#318044778#0(0"0(0#0#79"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/main.m8616545600#2350"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-generated-files.hmap" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-own-target-headers.hmap" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-all-target-headers.hmap" -iquote "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-project-headers.hmap" "-F/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/include" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/DerivedSources/i386" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/DerivedSources" -include /var/folders/XV/XVklkd+3Eyi9KQgq0ucWa++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SkiResort_Prefix-eimrtrnsselqeggzxyllddtoxdmv/SkiResort_Prefix.pch -c "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/main.m" -o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/ContinueGameViewController.xib"
+s318044777.026231
+e318044777.528517
+r1
+xCompileXIB
+x/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/ContinueGameViewController.xib
+lSLF07#2@41"CompileXIB ContinueGameViewController.xib318044777#318044777#0(0"0(0#0#103"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/ContinueGameViewController.xib8615460000#712"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/ContinueGameViewController.nib" "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/ContinueGameViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainMenuViewController.xib"
+s318044776.265691
+e318044777.026121
+r1
+xCompileXIB
+x/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainMenuViewController.xib
+lSLF07#2@37"CompileXIB MainMenuViewController.xib318044776#318044777#0(0"0(0#0#99"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainMenuViewController.xib8615534784#704"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/MainMenuViewController.nib" "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainMenuViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainScreenViewController.xib"
+s318044777.528615
+e318044777.923695
+r1
+xCompileXIB
+x/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainScreenViewController.xib
+lSLF07#2@39"CompileXIB MainScreenViewController.xib318044777#318044777#0(0"0(0#0#101"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainScreenViewController.xib8617524992#708"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/MainScreenViewController.nib" "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainScreenViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainWindow.xib"
+s318044776.264967
+e318044776.696906
+r1
+xCompileXIB
+x/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib318044776#318044776#0(0"0(0#0#87"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainWindow.xib8615905536#680"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/MainWindow.nib" "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/OptionsViewController.xib"
+s318044777.344569
+e318044777.812670
+r1
+xCompileXIB
+x/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/OptionsViewController.xib
+lSLF07#2@36"CompileXIB OptionsViewController.xib318044777#318044777#0(0"0(0#0#98"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/OptionsViewController.xib8618169760#702"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/OptionsViewController.nib" "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/OptionsViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/StartGameViewController.xib"
+s318044776.697000
+e318044777.344476
+r1
+xCompileXIB
+x/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/StartGameViewController.xib
+lSLF07#2@38"CompileXIB StartGameViewController.xib318044776#318044777#0(0"0(0#0#100"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/StartGameViewController.xib8616636672#706"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/StartGameViewController.nib" "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/StartGameViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/SkiResort.app/HUDBottomBackground.png ../SkiResortImages/HUDBottomBackground.png
+s318044777.812840
+e318044777.819638
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SkiResort.app/HUDBottomBackground.png
+x../SkiResortImages/HUDBottomBackground.png
+lSLF07#2@47"Copy ../SkiResortImages/HUDBottomBackground.png318044777#318044777#0(0"0(0#0#115"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/../SkiResortImages/HUDBottomBackground.png8616719648#610"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/../SkiResortImages/HUDBottomBackground.png" "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app"0#
+
+CCpResource build/Debug-iphonesimulator/SkiResort.app/HUDTopBackground.ong ../SkiResortImages/HUDTopBackground.ong
+s318025751.206477
+e318025751.248048
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SkiResort.app/HUDTopBackground.ong
+x../SkiResortImages/HUDTopBackground.ong
+lSLF07#2@44"Copy ../SkiResortImages/HUDTopBackground.ong318025751#318025751#0(0"0(0#0#112"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/../SkiResortImages/HUDTopBackground.ong8615931040#607"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/../SkiResortImages/HUDTopBackground.ong" "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app"0#
+
+CCpResource build/Debug-iphonesimulator/SkiResort.app/HUDTopBackground.png "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResortImages/HUDTopBackground.png"
+s318044777.813597
+e318044777.831917
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SkiResort.app/HUDTopBackground.png
+x/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResortImages/HUDTopBackground.png
+lSLF07#2@104"Copy /Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResortImages/HUDTopBackground.png318044777#318044777#0(0"0(0#0#99"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResortImages/HUDTopBackground.png8609036224#594"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResortImages/HUDTopBackground.png" "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app"0#
+
+CCpResource build/Debug-iphonesimulator/SkiResort.app/Map.png ../SkiResortImages/Map.png
+s318044777.815827
+e318044777.826959
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SkiResort.app/Map.png
+x../SkiResortImages/Map.png
+lSLF07#2@31"Copy ../SkiResortImages/Map.png318044777#318044777#0(0"0(0#0#99"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/../SkiResortImages/Map.png8615789216#594"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/../SkiResortImages/Map.png" "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app"0#
+
+CCpResource build/Debug-iphonesimulator/SkiResort.app/MapIcon.png ../SkiResortImages/MapIcon.png
+s318044777.814746
+e318044777.822339
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SkiResort.app/MapIcon.png
+x../SkiResortImages/MapIcon.png
+lSLF07#2@35"Copy ../SkiResortImages/MapIcon.png318044777#318044777#0(0"0(0#0#103"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/../SkiResortImages/MapIcon.png8617464832#598"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/../SkiResortImages/MapIcon.png" "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app"0#
+
+CCpResource build/Debug-iphonesimulator/SkiResort.app/Pause.png ../SkiResortImages/Pause.png
+s318044777.815290
+e318044777.823828
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SkiResort.app/Pause.png
+x../SkiResortImages/Pause.png
+lSLF07#2@33"Copy ../SkiResortImages/Pause.png318044777#318044777#0(0"0(0#0#101"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/../SkiResortImages/Pause.png8615406176#596"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/../SkiResortImages/Pause.png" "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app"0#
+
+CCpResource build/Debug-iphonesimulator/SkiResort.app/PauseMenu.png ../SkiResortImages/PauseMenu.png
+s318044777.814192
+e318044777.834996
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SkiResort.app/PauseMenu.png
+x../SkiResortImages/PauseMenu.png
+lSLF07#2@37"Copy ../SkiResortImages/PauseMenu.png318044777#318044777#0(0"0(0#0#105"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/../SkiResortImages/PauseMenu.png8615931584#600"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/../SkiResortImages/PauseMenu.png" "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app"0#
+
+CCpResource build/Debug-iphonesimulator/SkiResort.app/Store.png ../SkiResortImages/Store.png
+s318044777.816911
+e318044777.831712
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SkiResort.app/Store.png
+x../SkiResortImages/Store.png
+lSLF07#2@33"Copy ../SkiResortImages/Store.png318044777#318044777#0(0"0(0#0#101"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/../SkiResortImages/Store.png8619615680#596"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/../SkiResortImages/Store.png" "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app"0#
+
+CCpResource build/Debug-iphonesimulator/SkiResort.app/UpdateLog.png ../SkiResortImages/UpdateLog.png
+s318044777.816375
+e318044777.828076
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SkiResort.app/UpdateLog.png
+x../SkiResortImages/UpdateLog.png
+lSLF07#2@37"Copy ../SkiResortImages/UpdateLog.png318044777#318044777#0(0"0(0#0#105"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/../SkiResortImages/UpdateLog.png8617583840#600"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/../SkiResortImages/UpdateLog.png" "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app"0#
+
+CGenerateDSYMFile "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app.dSYM" "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/SkiResort"
+s318044779.570619
+e318044779.604530
+r1
+xGenerateDSYMFile
+x/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app.dSYM
+x/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/SkiResort
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/SkiResort.app.dSYM build/Debug-iphonesimulator/SkiResort.app/SkiResort318044779#318044779#0(0"0(0#0#124"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/SkiResort8615795200#497"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/SkiResort" -o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app.dSYM"0#
+
+CLd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/SkiResort" normal i386
+s318044779.539419
+e318044779.570514
+r1
+xLd
+x/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/SkiResort
+xnormal
+xi386
+lSLF07#2@129"Link /Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/SkiResort318044779#318044779#0(0"0(0#0#0"8617283584#1090"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator" "-F/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator" -filelist "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/Objects-normal/i386/SkiResort.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/SkiResort"0#
+
+CProcessInfoPlistFile "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/Info.plist" SkiResort-Info.plist
+s318044776.260368
+e318044776.264868
+r1
+xProcessInfoPlistFile
+x/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/Info.plist
+xSkiResort-Info.plist
+lSLF07#2@28"Process SkiResort-Info.plist318044776#318044776#0(0"0(0#0#93"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/SkiResort-Info.plist8615445632#593"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SkiResort-Info.plist -genpkginfo "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app/Info.plist"0#
+
+CProcessPCH /var/folders/XV/XVklkd+3Eyi9KQgq0ucWa++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SkiResort_Prefix-eimrtrnsselqeggzxyllddtoxdmv/SkiResort_Prefix.pch.gch SkiResort_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s318044777.923810
+e318044778.879015
+r1
+xProcessPCH
+x/var/folders/XV/XVklkd+3Eyi9KQgq0ucWa++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SkiResort_Prefix-eimrtrnsselqeggzxyllddtoxdmv/SkiResort_Prefix.pch.gch
+xSkiResort_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile SkiResort_Prefix.pch318044777#318044778#0(0"0(0#0#93"/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/SkiResort_Prefix.pch8619508768#2204"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-generated-files.hmap" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-own-target-headers.hmap" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-all-target-headers.hmap" -iquote "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/SkiResort-project-headers.hmap" "-F/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/include" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/DerivedSources/i386" "-I/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/SkiResort.build/Debug-iphonesimulator/SkiResort.build/DerivedSources" -c "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/SkiResort_Prefix.pch" -o /var/folders/XV/XVklkd+3Eyi9KQgq0ucWa++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SkiResort_Prefix-eimrtrnsselqeggzxyllddtoxdmv/SkiResort_Prefix.pch.gch0#
+
+CTouch "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app"
+s318044779.604618
+e318044779.607826
+r1
+xTouch
+x/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app
+lSLF07#2@120"Touch /Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app318044779#318044779#0(0"0(0#0#0"8615341920#352"    cd "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/billy_connolly/Desktop/Ski Resort Game/SkiResortRewrite/SkiResort/build/Debug-iphonesimulator/SkiResort.app"0#
+
